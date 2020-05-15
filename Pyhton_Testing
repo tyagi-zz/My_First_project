@@ -2,3 +2,9 @@ a=10
 b=20
 c=a+b
 print(C)
+
+def a,b:
+  a=init.("input from user")
+  b=init.("input from user)
+  c=a+b
+  print(c)
